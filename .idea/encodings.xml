@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/domino-langchain4j-dist/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/domino-langchain4j-dist/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/domino-langchain4j-xsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/domino-langchain4j-xsp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/langchain4j-demos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/langchain4j-demos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/shim/com.ibm.xsp.core.shim/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/shim/com.ibm.xsp.core.shim/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domino-langchain4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langchain4j-domino-dist/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langchain4j-domino-dist/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

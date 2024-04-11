@@ -1,0 +1,17 @@
+langchain4j for Domino
+
+Copyright 2024 Serdar Basegmez
+
+This product includes software contributed to
+OpenNTF Alliance (http://www.OpenNTF.org/)
+
+This product is licensed under the terms of the Apache 2.0 license.
+
+The project contains the following third-party code:
+
+- Snippets taken from the NSF File Server project, which is copyright OpenNTF Alliance, licensed under the Apache 2.0 license, and available from https://github.com/IKSG/nsf-file-server
+
+The binary distribution contains the following third-party code:
+
+- langchain4j, licensed under the Apache 2.0 license, and available from https://github.com/langchain4j/langchain4j
+- Domino JNX, which is copyright HCL America, licensed under the Apache 2.0 license, and available from https://github.com/HCL-TECH-SOFTWARE/domino-jnx
