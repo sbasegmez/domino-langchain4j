@@ -34,11 +34,12 @@
 
         <!-- Domino Platform -->
         <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>com.ibm.xsp.core.shim</artifactId>
-            <version>${project.version}</version>
+            <groupId>org.openntf.xsp.stubs</groupId>
+            <artifactId>com.ibm.xsp.core</artifactId>
+            <version>1.0.0</version>
             <scope>provided</scope>
         </dependency>
+
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>

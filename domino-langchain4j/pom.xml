@@ -41,7 +41,6 @@
     <modules>
         <module>domino-langchain4j-xsp</module>
         <module>domino-langchain4j-dist</module>
-        <module>shim/com.ibm.xsp.core.shim</module>
     </modules>
 
     <pluginRepositories>
