@@ -27,10 +27,6 @@
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-embeddings</artifactId>
         </dependency>
-        <dependency>
-            <groupId>dev.langchain4j</groupId>
-            <artifactId>langchain4j-embeddings-all-minilm-l6-v2</artifactId>
-        </dependency>
 
         <!-- Domino Platform -->
         <dependency>
@@ -55,6 +51,10 @@
             <artifactId>jakarta.activation-api</artifactId>
         </dependency>
         <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-impl</artifactId>
+        </dependency>
+        <dependency>
             <groupId>com.ibm.sbt</groupId>
             <artifactId>com.ibm.commons</artifactId>
             <scope>provided</scope>
@@ -77,6 +77,7 @@
                     <instructions>
                         <Bundle-SymbolicName>com.developi.langchain4j.xsp;singleton:=true</Bundle-SymbolicName>
                         <Bundle-RequiredExecutionEnvironment>JavaSE-1.8</Bundle-RequiredExecutionEnvironment>
+                        <Bundle-Activator>com.developi.langchain4j.xsp.Activator</Bundle-Activator>
                         <Export-Package/>
                         <Require-Bundle>
                             com.ibm.xsp.core

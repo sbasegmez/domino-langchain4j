@@ -3,6 +3,4 @@
         <namespace-uri>http://example.com/xsp/control</namespace-uri>
         <default-prefix>lc</default-prefix>
     </faces-config-extension>
-   
-    
 </faces-config>
