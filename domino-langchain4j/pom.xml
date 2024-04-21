@@ -34,8 +34,8 @@
         <osgi.qualifier>${maven.build.timestamp}</osgi.qualifier>
         <manifest-location>META-INF</manifest-location>
 
-        <version-langchain4j>0.29.1</version-langchain4j>
-        <version-jnx>1.39.1</version-jnx>
+        <version-langchain4j>0.30.0</version-langchain4j>
+        <version-jnx>1.40.0</version-jnx>
     </properties>
 
     <modules>
@@ -69,6 +69,12 @@
             <dependency>
                 <groupId>dev.langchain4j</groupId>
                 <artifactId>langchain4j-embeddings</artifactId>
+                <version>${version-langchain4j}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>dev.langchain4j</groupId>
+                <artifactId>langchain4j-qdrant</artifactId>
                 <version>${version-langchain4j}</version>
             </dependency>
 
