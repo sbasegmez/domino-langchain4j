@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.developi</groupId>
-        <artifactId>domino-langchain4j</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <groupId>org.openntf.langchain4j</groupId>
+        <artifactId>parent-domino-langchain4j</artifactId>
+        <version>1.0.0</version>
     </parent>
     <packaging>pom</packaging>
 
@@ -29,11 +29,11 @@
                         <configuration>
                             <featureDefinitions>
                                 <feature>
-                                    <id>com.developi.langchain4j.feature</id>
+                                    <id>org.openntf.langchain4j.feature</id>
                                     <version>${project.version}</version>
                                     <label>Domino-langchain4j</label>
-                                    <providerName>Developi</providerName>
-                                    <description>langchain4j domino wrapper</description>
+                                    <providerName>OpenNTF</providerName>
+                                    <description>OpenNTF Domino LangChain4j Support</description>
                                     <copyright>2024 Serdar Basegmez</copyright>
                                     <license>Apache License 2.0</license>
                                     <generateSourceFeature>false</generateSourceFeature>

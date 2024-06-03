@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.developi</groupId>
-        <artifactId>domino-langchain4j</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <groupId>org.openntf.langchain4j</groupId>
+        <artifactId>parent-domino-langchain4j</artifactId>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>domino-langchain4j-xsp</artifactId>
@@ -75,9 +75,9 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Bundle-SymbolicName>com.developi.langchain4j.xsp;singleton:=true</Bundle-SymbolicName>
+                        <Bundle-SymbolicName>org.openntf.langchain4j.xsp;singleton:=true</Bundle-SymbolicName>
                         <Bundle-RequiredExecutionEnvironment>JavaSE-1.8</Bundle-RequiredExecutionEnvironment>
-                        <Bundle-Activator>com.developi.langchain4j.xsp.Activator</Bundle-Activator>
+                        <Bundle-Activator>org.openntf.langchain4j.xsp.Activator</Bundle-Activator>
                         <Export-Package/>
                         <Require-Bundle>
                             com.ibm.xsp.core

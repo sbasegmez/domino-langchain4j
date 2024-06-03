@@ -1,4 +1,4 @@
-package com.developi.langchain4j.xsp;
+package org.openntf.langchain4j.xsp;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;

@@ -1,6 +1,6 @@
 <faces-config>
     <faces-config-extension>
-        <namespace-uri>http://example.com/xsp/control</namespace-uri>
-        <default-prefix>lc</default-prefix>
+        <namespace-uri>http://openntf.org/xsp/langchain4j</namespace-uri>
+        <default-prefix>lc4j</default-prefix>
     </faces-config-extension>
 </faces-config>

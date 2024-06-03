@@ -1,4 +1,4 @@
-package com.developi.langchain4j.xsp.model;
+package org.openntf.langchain4j.xsp.model;
 
 import dev.langchain4j.model.embedding.AbstractInProcessEmbeddingModel;
 import dev.langchain4j.model.embedding.OnnxBertBiEncoder;

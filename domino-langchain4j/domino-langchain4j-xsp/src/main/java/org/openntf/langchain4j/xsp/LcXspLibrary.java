@@ -1,4 +1,4 @@
-package com.developi.langchain4j.xsp;
+package org.openntf.langchain4j.xsp;
 
 import com.ibm.xsp.library.AbstractXspLibrary;
 
